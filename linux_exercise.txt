@@ -1,0 +1,87 @@
+#####4.1a#######
+cd ~
+#####End of Question#######
+#####4.1b#######
+ls -a ~
+#####End of Question#######
+#####4.1c#######
+cd ~ && ls *.{txt,py,sh} 
+#####End of Question#######
+#####4.1d#######
+pwd
+#####End of Question#######
+#####4.1e#######
+more ~/.bashrc
+#####End of Question#######
+#####4.1f#######
+tail -10 ~/.bashrc
+#####End of Question#######
+#####4.2a#######
+mkdir -p ~/Desktop/linux_exercises/part2
+#####End of Question#######
+#####4.2b#######
+touch ~/Desktop/linux_exercises/part2/brace{.txt,.py,.sh}
+#####End of Question#######
+#####4.2c#######
+touch ~/Desktop/linux_exercises/part2/{1,one,a}.txt
+#####End of Question#######
+#####4.2d#######
+mkdir ~/Desktop/linux_exercises/part2/text_files
+#####End of Question#######
+#####4.2e#######
+cd ~/Desktop/linux_exercises/part2/text_files
+#####End of Question#######
+#####4.2f#######
+mv ../*.txt .
+#####End of Question#######
+#####4.2g#######
+echo This is so cool! > ~/Desktop/linux_exercises/part2/text_files/brace.txt
+#####End of Question#######
+#####4.2h#######
+echo Look! I can write files using the terminal! >> ~/Desktop/linux_exercises/part2/text_files/brace.txt
+#####End of Question#######
+#####4.2i#######
+cat ~/Desktop/linux_exercises/part2/text_files/brace.txt >> ~/Desktop/linux_exercises/part2/brace.sh
+#####End of Question#######
+#####4.2j#######
+cat >> brace.py
+#####End of Question#######
+#####4.2k#######
+chmod +x brace.py
+#####End of Question#######
+#####4.2l#######
+rm -r ~/Desktop/linux_exercises/part2
+#####End of Question#######
+#####4.3a#######
+sudo brew install terminator
+#####End of Question#######
+#####4.3b#######
+sudo brew uninstall terminator
+#####End of Question#######
+#####4.3c#######
+firefox
+#####End of Question#######
+#####4.3d#######
+pkill -f firefox
+#####End of Question#######
+#####4.4a#######
+ls >> transfer.txt
+#####End of Question#######
+#####4.4b#######
+scp ~/Desktop/linux_exercises/transfer.txt kontomah@ftp.dialup.mit.edu:/mit/kontomah
+#####End of Question#######
+#####4.4c#######
+scp kontomah@ftp.dialup.mit.edu:/mit/kontomah/Desktop/transfer.txt Desktop/linux_exercises/
+#####End of Question#######
+#####4.5a#######
+grep -s -e "#!/usr/bin/python" -e "#!/bin/bash" .* *
+#####End of Question#######
+#####4.5b#######
+ps aux  | grep "grep"
+#####End of Question#######
+#####4.5c#######
+ps aux | tail -n+4 |wc -l
+#####End of Question#######
+#####4.5d#######
+find ~/ -type f | grep -oP "\\.[^\\./]+$" | sort | uniq -c | sort -nr | head | sort -nr
+#####End of Question#######

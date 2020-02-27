@@ -1,0 +1,17 @@
+commit 00b70580ac84168b45946ac39c6ce6e3079890d5
+Author: Isaac Kontomah <kontomah@mit.edu>
+Date:   Wed Feb 14 00:12:25 2018 -0500
+
+    Isaac: added the files in archive to my repository
+
+commit e7f5da168c8171a515349c5ae541457a5ffb166a
+Author: Isaac Kontomah <kontomah@mit.edu>
+Date:   Wed Feb 14 00:11:07 2018 -0500
+
+    Isaac: added the files in
+
+commit 158c554efbca39ead0d12bf9d0ba859559b308f8
+Author: Isaac Kontomah <kontomah@mit.edu>
+Date:   Tue Feb 13 23:22:38 2018 -0500
+
+    Isaac: added linux_exercise.txt to my rss_lab1 repository

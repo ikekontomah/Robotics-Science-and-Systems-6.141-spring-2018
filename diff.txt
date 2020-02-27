@@ -1,0 +1,101 @@
+diff --git a/random.txt b/random.txt
+index bc38502..65c9eff 100644
+--- a/random.txt
++++ b/random.txt
+@@ -1,19 +1,17 @@
+-In a vision, or in none,
+-Thus much let me avow--
+-That my days have been a dream;
+-Through my fingers to the deep,
+-Grains of the golden sand--
+-Is it therefore the less gone?
+-One from the pitiless wave?
+-In a vision, or in none,
+-Grains of the golden sand--
+-O God! can I not grasp
+-Thus much let me avow--
+-Is it therefore the less gone?
+-How few! yet how they creep
++O God! can I not save
+ Take this kiss upon the brow!
+-In a night, or in a day,
++
++Them with a tighter clasp?
++O God! can I not save
+ O God! can I not save
++Take this kiss upon the brow!
++Take this kiss upon the brow!
++Of a surf-tormented shore,
++How few! yet how they creep
++And I hold within my hand
+ You are not wrong, who deem
++Is it therefore the less gone?
++Is but a dream within a dream.
+ Is all that we see or seem
+-But a dream within a dream?
+\ No newline at end of file
++O God! can I not save
++And I hold within my hand
+diff --git a/random.txt b/random.txt
+index 190e450..33561a5 100644
+--- a/random.txt
++++ b/random.txt
+@@ -1,13 +1,24 @@
+-Thus much let me avow--
+-Is it therefore the less gone?
++In a night, or in a day,
++Yet if hope has flown away
++You are not wrong, who deem
+ Through my fingers to the deep,
+-Is all that we see or seem
+-Is it therefore the less gone?
+-One from the pitiless wave?
+-Is all that we see or seem
+-Take this kiss upon the brow!
+-In a vision, or in none,
+-Of a surf-tormented shore,
++And I hold within my hand
++O God! can I not save
+ In a vision, or in none,
++I stand amid the roar
+ All that we see or seem
+-One from the pitiless wave?
++Is but a dream within a dream.
++Is all that we see or seem
++O God! can I not grasp
++Is but a dream within a dream.
++You are not wrong, who deem
++Through my fingers to the deep,
++But a dream within a dream?Through my fingers to the deep,
++Through my fingers to the deep,
++While I weep--while I weep!
++
++I stand amid the roar
++I stand amid the roar
++In a vision, or in none,
++Is all that we see or seem
++Through my fingers to the deep,
+diff --git a/random.txt b/random.txt
+index 9e5834b..e7d1ecc 100644
+--- a/random.txt
++++ b/random.txt
+@@ -1,13 +1,8 @@
+-In a night, or in a day,
+-Them with a tighter clasp?
+-One from the pitiless wave?
+-Is but a dream within a dream.
+-All that we see or seem
+-O God! can I not save
+-Is it therefore the less gone?
+-And I hold within my hand
+-And I hold within my hand
+-Is but a dream within a dream.
+-Grains of the golden sand--
++You are not wrong, who deem
+ 
++While I weep--while I weep!
++While I weep--while I weep!
+ O God! can I not save
++In a vision, or in none,
++How few! yet how they creep
++Through my fingers to the deep,
